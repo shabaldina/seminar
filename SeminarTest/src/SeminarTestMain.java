@@ -4,10 +4,10 @@ public class SeminarTestMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		SalesData data = new SalesData();
+		GroupChanges groupNr = new GroupChanges();
 		
 		displayGreeting();
-		data.display();
+		groupNr.display();
 
 	}
 	
